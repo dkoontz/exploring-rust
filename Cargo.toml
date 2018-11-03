@@ -1,0 +1,6 @@
+[package]
+name = "rust_payment_processor"
+version = "0.1.0"
+authors = ["David Koontz <david@koontzfamily.org>"]
+
+[dependencies]
